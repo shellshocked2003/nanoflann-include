@@ -2,7 +2,7 @@
 
 | Bintray | Windows | Linux & macOS |
 |:--------:|:---------:|:-----------------:|
-|[ ![Download](https://api.bintray.com/packages/nheri-simcenter/simcenter/mkl-include%3Asimcenter/images/download.svg) ](https://bintray.com/nheri-simcenter/simcenter/mkl-include%3Asimcenter/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/vu90ug5dw7ri278r?svg=true)](https://ci.appveyor.com/project/shellshocked2003/mkl-include)|[![Build Status](https://travis-ci.org/shellshocked2003/mkl-include.svg?branch=master)](https://travis-ci.org/shellshocked2003/mkl-include)|
+|[ ![Download](https://api.bintray.com/packages/nheri-simcenter/simcenter/nanoflann%3Asimcenter/images/download.svg?version=1.3.0%3Astable) ](https://bintray.com/nheri-simcenter/simcenter/nanoflann%3Asimcenter/1.3.0%3Astable/link)|[![Build status](https://ci.appveyor.com/api/projects/status/c4ia5qwmv1urx09j?svg=true)](https://ci.appveyor.com/project/shellshocked2003/nanoflann-include)|[![Build Status](https://travis-ci.org/shellshocked2003/nanoflann-include.svg?branch=stable%2F1.3.0)](https://travis-ci.org/shellshocked2003/nanoflann-include)|
 
 ## Conan Information
 
